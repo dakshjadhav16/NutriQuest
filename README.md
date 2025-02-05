@@ -1,6 +1,6 @@
 # NutriQuest 🍏💪 – Your Personal Health & Fitness Companion
-
-🚀 NutriQuest is a smart health-tracking platform that provides AI-generated workout plans, personalized meal recommendations, and real-time nutrition advice to help users achieve their fitness goals.
+🚀 NutriQuest is a smart health-tracking platform that provides AI-generated workout plans, personalized meal recommendations,
+    and real-time nutrition advice to help users achieve their fitness goals.
 
 Features 🏋️‍♂️🥗
 ✅ Personalized Workout Plans – Custom exercise routines based on fitness goals (muscle gain, weight loss, endurance).
@@ -12,5 +12,5 @@ Features 🏋️‍♂️🥗
 Tech Stack 🛠️
 🔹 Frontend: React.js / Next.js
 🔹 Backend: Node.js / Express.js
-🔹 Database: MongoDB 
+🔹 Database: MongoDB
 🔹 APIs Used: Edamam API (Meal & Nutrition Planning) and RapidAPI (AI-Generated Workouts)
